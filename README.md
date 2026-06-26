@@ -54,6 +54,10 @@ Full-featured desktop app with role-based authentication, movie CRUD, MongoDB, a
 Windows productivity tool that monitors screen time and enforces break reminders with fullscreen overlays.
 `Python` `tkinter` `Windows API` `ctypes`
 
+### 🤖 Smart Resume Analyzer
+AI-powered resume analyzer using LangChain + Google Gemini. Upload a resume, paste a job description, and get match score, skill gaps, and a tailored cover letter.
+`Python` `LangChain` `Gemini` `Streamlit` `NLP` `LLM`
+
 ### 🎥 MovieRecX Recommendation System
 Movie recommendation engine using Hash Tables, Graphs, and Max-Heaps for fast search and similarity matching.
 `Java` `Data Structures` `Algorithms`
