@@ -1,17 +1,16 @@
 <div align="center">
 
-<!-- BANNER -->
 <img src="https://raw.githubusercontent.com/Nazeer-110/Nazeer-110/main/banner.png" width="100%"/>
 
 <br/>
 
-<h1>Hi 👋, I'm Nazeer Ahmed</h1>
-<h3>A passionate Data Scientist from Pakistan</h3>
+# Hi, I'm Nazeer Ahmed
 
-<!-- PROFILE VIEWS COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=Nazeer-110&style=flat-square&color=blue" alt="Profile views"/>
+**AI/ML Engineering Student | Python Developer | Computer Vision Enthusiast**
 
-<!-- SOCIAL LINKS -->
+Building machine learning models and software that solve real-world problems.  
+Focused on **Computer Vision, Deep Learning, and Data Science**.
+
 <p>
   <a href="mailto:nazeerahmedkhaskhelin51@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/nazeer-ahmed-971382327/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
@@ -21,32 +20,61 @@
 
 ---
 
-- 🔭 I'm currently studying computer science, focusing on **data cleaning, feature engineering, and model deployment**.
-- 🌱 I'm currently learning **Python for data science, SQL, and deep learning frameworks like TensorFlow and PyTorch**.
-- 🤝 I'm looking to collaborate on **data science and machine learning projects**.
-- 💬 Ask me about **Python, Java, C++, DSA, NoSQL, ML, AI, SQL, Data Visualization, Excel**.
-- 📫 Reach me at **nazeerahmedkhaskhelin51@gmail.com**
+## About Me
+
+- Studying **Computer Science**, specializing in **Data Science & Machine Learning**
+- Building projects in **Computer Vision, NLP, and Full-Stack Development**
+- Experienced with **data cleaning, feature engineering, model deployment, and API development**
+- Looking to collaborate on **ML/DL and open-source projects**
+- Ask me about **Python, Machine Learning, Deep Learning, Computer Vision, SQL, Data Structures**
 
 ---
 
-<h3>🛠 Languages & Tools</h3>
+## Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-</p>
+**Languages:** Python, Java, C++, SQL, JavaScript, HTML/CSS
+
+**ML/DL:** TensorFlow, PyTorch, Scikit-learn, YOLOv8, OpenCV, Pandas, NumPy
+
+**Tools & Platforms:** Streamlit, Git, MongoDB, CustomTkinter, Power BI, Excel, Vercel
 
 ---
 
-<h3>📊 GitHub Stats</h3>
+## Featured Projects
+
+### 🚗 AI Vehicle Speed Detection System
+YOLOv8 + custom IOU tracker for vehicle detection, tracking, and speed estimation with Streamlit web interface.
+`Python` `YOLOv8` `OpenCV` `Streamlit` `Computer Vision`
+
+### 🎬 CineVault Movie Management System
+Full-featured desktop app with role-based authentication, movie CRUD, MongoDB, and PDF/Excel reporting.
+`Python` `CustomTkinter` `MongoDB` `bcrypt` `ReportLab`
+
+### 📵 Reel Break Enforcer
+Windows productivity tool that monitors screen time and enforces break reminders with fullscreen overlays.
+`Python` `tkinter` `Windows API` `ctypes`
+
+### 🎥 MovieRecX Recommendation System
+Movie recommendation engine using Hash Tables, Graphs, and Max-Heaps for fast search and similarity matching.
+`Java` `Data Structures` `Algorithms`
+
+---
+
+## GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Nazeer-110&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nazeer-110&show_icons=true&theme=tokyonight&count_private=true" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nazeer-110&theme=tokyonight" width="48%"/>
 </p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nazeer-110&layout=compact&theme=tokyonight" width="40%"/>
+</p>
+
+---
+
+## Let's Connect
+
+- LinkedIn: [nazeer-ahmed-971382327](https://www.linkedin.com/in/nazeer-ahmed-971382327/)
+- Email: nazeerahmedkhaskhelin51@gmail.com
+- Portfolio: _Coming soon_
