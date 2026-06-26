@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Nazeer-110/Nazeer-110/main/banner.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/nazeer-ahmed-cs/nazeer-ahmed-cs/main/banner.png" width="100%"/>
 
 <br/>
 
@@ -63,12 +63,12 @@ Movie recommendation engine using Hash Tables, Graphs, and Max-Heaps for fast se
 ## GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Nazeer-110&show_icons=true&theme=tokyonight&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nazeer-110&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nazeer-ahmed-cs&show_icons=true&theme=tokyonight&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazeer-ahmed-cs&theme=tokyonight" width="48%"/>
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nazeer-110&layout=compact&theme=tokyonight" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazeer-ahmed-cs&layout=compact&theme=tokyonight" width="40%"/>
 </p>
 
 ---
@@ -77,4 +77,4 @@ Movie recommendation engine using Hash Tables, Graphs, and Max-Heaps for fast se
 
 - LinkedIn: [nazeer-ahmed-971382327](https://www.linkedin.com/in/nazeer-ahmed-971382327/)
 - Email: nazeerahmedkhaskhelin51@gmail.com
-- Portfolio: _Coming soon_
+- Portfolio: [nazeer-ahmed-cs.github.io](https://nazeer-ahmed-cs.github.io)
