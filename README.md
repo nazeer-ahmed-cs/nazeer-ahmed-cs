@@ -68,11 +68,11 @@ Movie recommendation engine using Hash Tables, Graphs, and Max-Heaps for fast se
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nazeer-ahmed-cs&show_icons=true&theme=tokyonight&count_private=true" width="48%"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=nazeer-ahmed-cs&show_icons=true&theme=tokyonight&count_private=true" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazeer-ahmed-cs&theme=tokyonight" width="48%"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazeer-ahmed-cs&layout=compact&theme=tokyonight" width="40%"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nazeer-ahmed-cs&layout=compact&theme=tokyonight" width="40%"/>
 </p>
 
 ---
